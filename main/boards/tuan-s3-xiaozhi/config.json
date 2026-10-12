@@ -1,0 +1,11 @@
+{
+    "manufacturer": "custom",
+    "type": "tuan-s3-xiaozhi",
+    "target": "esp32s3",
+    "builds": [
+        {
+            "name": "tuan-s3-xiaozhi",
+            "sdkconfig_append": []
+        }
+    ]
+}
